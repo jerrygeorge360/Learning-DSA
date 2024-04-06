@@ -1,6 +1,6 @@
 # Learning-DSA
 This repository contains our conceptual understanding and implementations of different Data Structures and Algorithms.
-This would be implemented in Python and Php for now.
+This would be implemented in Python and JavaScript for now.
 
 
 # RoadMap
